@@ -8,7 +8,7 @@ The number on top of red boxes are possibilities of wheats
 
 The FRCNN.ipynb used FastRCNNPredictor (torchvision.models.detection.faster_rcnn) with pretrained weitght 
 
-and trained than trained 30 min with GTX 1080ti 
+and than trained 30 min with GTX 1080ti 
 
 ![Train result](https://github.com/ShangChunLin/FRCNN-on-wheat-images/blob/main/FRCNN.png)
 
