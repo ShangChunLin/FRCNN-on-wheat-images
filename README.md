@@ -2,13 +2,15 @@
 
 Implemtation of FRCNN (fast region-based convolutional neural networks) on wheat images in pytorch
 
-It was a kaggle competition. I mainly doing it for fun. 
+It was a kaggle competition. I mainly did it for fun. 
 
-The number on top of red boxes are possibilities of wheats
 
 The FRCNN.ipynb used FastRCNNPredictor (torchvision.models.detection.faster_rcnn) with pretrained weitght 
 
 and than trained 30 min with GTX 1080ti 
+
+
+The red boxes are predict result and number on top of them are possibilities of wheats
 
 ![Train result](https://github.com/ShangChunLin/FRCNN-on-wheat-images/blob/main/FRCNN.png)
 
