@@ -1,6 +1,6 @@
 # FRCNN-on-wheat-images
 
-Implemtation of FRCNN (fast region-based convolutional neural networks) on wheat images in pytorch
+Implementation of FRCNN (fast region-based convolutional neural networks) on wheat images in pytorch
 
 It was a kaggle competition. I mainly did it for fun. 
 
